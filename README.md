@@ -1,6 +1,6 @@
 # The State of Data Science: Insights from Kaggele Report 2022
 
-In 2022, Kaggle, the largest online community of data scientists conducted a survey to gather information about the state of data science and machine learning. Kaggle, as per its data democratization culture, made the raw data accessible to all its members in the platform. The raw dataset can be found [here] (https://www.kaggle.com/competitions/kaggle-survey-2022/data). 
+In 2022, Kaggle, the largest online community of data scientists conducted a survey to gather information about the state of data science and machine learning. Kaggle, as per its data democratization culture, made the raw data accessible to all its members in the platform. The raw dataset can be found [here](https://www.kaggle.com/competitions/kaggle-survey-2022/data). 
 
 In this project, I utilize the raw data from the kaggle report to derive key insights and identify trends in data science and machine learning. The analysis for conducted using MySQL and Pandas. The entire analysis process from data prepartion is documented in seven jupyter notebooks. Below is a list of the notebooks and the topics they cover in the analysis:
 

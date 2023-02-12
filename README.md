@@ -42,3 +42,8 @@ In this project, I utilize the raw data from the kaggle report to derive key ins
 
 ![Compensation vs Exp-1](https://user-images.githubusercontent.com/118732615/218298593-eb0b468d-9c71-41c8-8fa0-9ee73aaef7ad.png)
 
+## Popular Data Science Tools, Methods, and Technologies
+
+![Data Science Tols-1](https://user-images.githubusercontent.com/118732615/218298746-1413c776-0c14-4d14-a8db-d711071dd711.png)
+
+

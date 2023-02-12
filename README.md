@@ -22,4 +22,11 @@ In this project, I utilize the raw data from the kaggle report to derive key ins
 
 ![Res Demographics-1](https://user-images.githubusercontent.com/118732615/218295783-419af2d9-55b4-498f-8361-a58a59c62e16.png)
 
- 
+## Becoming a Data Scientist
+1. Data scientists need at least a bachelor's degree. Only 15% of the respondents had attained/wishe to attain a level of education less than a bachelor's degree
+2. Kaggle and Twitter are the most helpful media sources for data science news. This is according to over 70% of the respondents
+3. The best learning platforms for data science are Datacamp and Coursera - over 70% of the respondents
+4. Video platforms are most preffered by data scientists students - 60% of the respondents
+
+![Becoming a data-1](https://user-images.githubusercontent.com/118732615/218297194-c66dc5b2-2c2e-4de1-91b9-cdb7ba64cad7.png)
+

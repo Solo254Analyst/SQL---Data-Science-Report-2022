@@ -12,9 +12,9 @@ In this project, I utilize the raw data from the kaggle report to derive key ins
 6. What do data scientists do? - [Notebook](https://nbviewer.org/github/Solo254Analyst/SQL---Data-Science-Report-2022/blob/main/Data%20Science%20Report%202022%20-%20PART%206%20What%20Do%20Data%20Scientists%20Do.ipynb)
 7. Most useful tools, methods, and technologies - [Notebook](https://nbviewer.org/github/Solo254Analyst/SQL---Data-Science-Report-2022/blob/main/Data%20Science%20Report%202022%20-%20PART%207%20Most%20Used%20Tools%2C%20Methods%2C%20and%20Technologies.ipynb)
 
-#Findings
+# Findings
 
-##Respondents Demographics
+## Respondents Demographics
 1. Data science is heavily men-dominated. Over 70% of the respondents identify as men. Why aren't there more women in data science?
 2. Half of the respondents identifty as students
 3. Data was collected from over 57 countries. However, 49% of the respondents were either from India or the US

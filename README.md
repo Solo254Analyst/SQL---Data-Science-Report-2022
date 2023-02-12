@@ -18,7 +18,7 @@ In this project, I utilize the raw data from the kaggle report to derive key ins
 1. Data science is heavily men-dominated. Over 70% of the respondents identify as men. Why aren't there more women in data science?
 2. Half of the respondents identifty as students
 3. Data was collected from over 57 countries. However, 49% of the respondents were either from India or the US
-4. Data science is applicable to pretty much all industries. Over 14 industries were mentioned in the survey. Of these, three sectors, computer/technology, government/public service, and broadcasting/communication, employ over 46% of the respondents
+4. Data science is applicable to pretty much all industries. Over 14 industries were mentioned in the survey. Of these, three sectors, computer/technology, government/public service, and broadcasting/communication, employed over 46% of the respondents
 
 ![Res Demographics-1](https://user-images.githubusercontent.com/118732615/218295783-419af2d9-55b4-498f-8361-a58a59c62e16.png)
 

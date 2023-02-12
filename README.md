@@ -23,10 +23,22 @@ In this project, I utilize the raw data from the kaggle report to derive key ins
 ![Res Demographics-1](https://user-images.githubusercontent.com/118732615/218295783-419af2d9-55b4-498f-8361-a58a59c62e16.png)
 
 ## Becoming a Data Scientist
-1. Data scientists need at least a bachelor's degree. Only 15% of the respondents had attained/wishe to attain a level of education less than a bachelor's degree
+1. Data scientists need at least a bachelor's degree. Only 15% of the respondents have attained/wish to attain a level of education less than a bachelor's degree
 2. Kaggle and Twitter are the most helpful media sources for data science news. This is according to over 70% of the respondents
 3. The best learning platforms for data science are Datacamp and Coursera - over 70% of the respondents
-4. Video platforms are most preffered by data scientists students - 60% of the respondents
+4. Video platforms are most preffered by data science students - 60% of the respondents
 
 ![Becoming a data-1](https://user-images.githubusercontent.com/118732615/218297194-c66dc5b2-2c2e-4de1-91b9-cdb7ba64cad7.png)
+
+## How Do Data Scientists Spend their Time
+1. According to 36% of the respondents, most data scientists spend their time analyzing and understanding data to influence product or business decisions
+2. The second core activity is building prototypes for applying machine learning to new areas
+
+![How do data sci spend their time-1](https://user-images.githubusercontent.com/118732615/218297941-8b3ed15f-fa38-4e85-a9b9-737d0623974e.png)
+
+## Data Science Compensation Analysis
+1. From a global perspective, the typical trend is that more coding experience results in higher pay. However, the US trend shows that more experienced personnel are still in the lower ranks in the compensation scale
+2. In terms of compensation alone, data scientists in the US earn considerably higher annual salary in comparison to the global trend. While most data scientists in the US earn above USD 50,000 per year, a significant number in other parts of the world make less than that. 
+
+![Compensation vs Exp-1](https://user-images.githubusercontent.com/118732615/218298593-eb0b468d-9c71-41c8-8fa0-9ee73aaef7ad.png)
 
